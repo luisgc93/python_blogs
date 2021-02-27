@@ -1,10 +1,11 @@
 # python_blogs
-A collection of my favourite articles about Python & Django 🐍
+A collection of my favourite articles/resources about Python & Django 🐍
 
 1. Code conventions:
 <br/>https://www.dabapps.com/blog/django-models-and-encapsulation
 <br/>https://www.b-list.org/weblog/2020/mar/16/no-service/
-<br/>https://instagram-engineering.com/types-for-python-http-apis-an-instagram-story-d3c3a207fdb7   
+<br/>https://instagram-engineering.com/types-for-python-http-apis-an-instagram-story-d3c3a207fdb7
+<br/>https://2013.es.pycon.org/media/solid-principles.pdf
    
 2. Real-world problems: 
 <br/>https://build.vsupalov.com/11-django-real-world-challenges/ 
@@ -16,3 +17,4 @@ A collection of my favourite articles about Python & Django 🐍
    
 4. Databases:
 <br/>https://ysinjab.medium.com/activerecord-vs-datamapper-in-python-f7f13ffb6774
+
