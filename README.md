@@ -13,3 +13,5 @@ A collection of my favourite articles about Python & Django 🐍
 <br/>https://build.vsupalov.com/gunicorn-and-nginx/
 <br/>https://build.vsupalov.com/what-is-gunicorn/
    
+4. Databases:
+<br/>https://ysinjab.medium.com/activerecord-vs-datamapper-in-python-f7f13ffb6774
