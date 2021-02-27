@@ -4,6 +4,7 @@ A collection of my favourite articles about Python & Django 🐍
 1. Code conventions:
 <br/>https://www.dabapps.com/blog/django-models-and-encapsulation
 <br/>https://www.b-list.org/weblog/2020/mar/16/no-service/
+<br/>https://instagram-engineering.com/types-for-python-http-apis-an-instagram-story-d3c3a207fdb7   
    
 2. Real-world problems: 
 <br/>https://build.vsupalov.com/11-django-real-world-challenges/ 
