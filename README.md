@@ -1,5 +1,5 @@
 # python_blogs
-A collection of my favourite articles about Python 🐍
+A collection of my favourite articles about Python & Django 🐍
 
 1. Web servers:
 <br/>https://build.vsupalov.com/gunicorn-and-nginx/
