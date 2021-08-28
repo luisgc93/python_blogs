@@ -1,5 +1,4 @@
-# python_resources
-A collection of my favourite articles and videos about all things Python 🐍
+# python_resources 🐍
 
 1. Code conventions:
 <br/>https://www.dabapps.com/blog/django-models-and-encapsulation
