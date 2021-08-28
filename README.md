@@ -1,5 +1,5 @@
-# python_blogs
-A collection of my favourite articles/resources about Python & Django 🐍
+# python_resources
+A collection of my favourite articles and videos about all things Python 🐍
 
 1. Code conventions:
 <br/>https://www.dabapps.com/blog/django-models-and-encapsulation
@@ -19,3 +19,5 @@ A collection of my favourite articles/resources about Python & Django 🐍
 4. Databases:
 <br/>https://ysinjab.medium.com/activerecord-vs-datamapper-in-python-f7f13ffb6774
 
+5. HTTP vs WebSockets:
+<br/>https://www.youtube.com/watch?v=8ARodQ4Wlf4
