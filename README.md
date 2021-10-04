@@ -23,3 +23,6 @@
 
 6. HTTP vs WebSockets:
 <br/>https://www.youtube.com/watch?v=8ARodQ4Wlf4
+
+7. Docker:
+<br/>https://pythonspeed.com/articles/base-image-python-docker-images/
