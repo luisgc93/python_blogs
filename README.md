@@ -12,6 +12,7 @@
 
 3. FastAPI:
 <br/>https://ahmed-nafies.medium.com/fastapi-with-sqlalchemy-postgresql-and-alembic-and-of-course-docker-f2b7411ee396
+<br/>https://www.youtube.com/watch?v=0sOvCWFmrtA
 
 4. Web servers:
 <br/>https://build.vsupalov.com/gunicorn-and-nginx/
