@@ -27,3 +27,4 @@
 
 7. Docker:
 <br/>https://pythonspeed.com/articles/base-image-python-docker-images/
+<br/>https://testdriven.io/blog/docker-best-practices/
