@@ -19,8 +19,9 @@
 <br/>https://build.vsupalov.com/what-is-gunicorn/
 <br/>https://medium.com/@nachoad/que-es-wsgi-be7359c6e001 (in Spanish)
    
-5. Databases:
+5. Databases & ORMs:
 <br/>https://ysinjab.medium.com/activerecord-vs-datamapper-in-python-f7f13ffb6774
+<br/>https://dev.to/chidioguejiofor/eager-loading-vs-lazy-loading-in-sqlalchemy-5209
 
 6. HTTP vs WebSockets:
 <br/>https://www.youtube.com/watch?v=8ARodQ4Wlf4
