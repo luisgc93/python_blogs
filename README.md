@@ -14,6 +14,8 @@
 3. FastAPI:
 <br/>https://ahmed-nafies.medium.com/fastapi-with-sqlalchemy-postgresql-and-alembic-and-of-course-docker-f2b7411ee396
 <br/>https://www.youtube.com/watch?v=0sOvCWFmrtA
+<br/>https://christophergs.com/tutorials/ultimate-fastapi-tutorial-pt-11-dependency-injection/
+<br/>https://christophergs.com/python/2021/06/16/python-flask-fastapi/
 
 4. Web servers:
 <br/>https://build.vsupalov.com/gunicorn-and-nginx/
