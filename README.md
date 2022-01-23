@@ -18,6 +18,7 @@
 <br/>https://developer.redis.com/develop/python/fastapi/
 <br/>https://rednafi.github.io/digressions/python/database/2020/05/25/python-redis-cache.html
 <br/>https://www.youtube.com/watch?v=0sOvCWFmrtA
+<br/>https://www.youtube.com/watch?v=QSFIK2Ytbh4
 
 4. Web servers:
 <br/>https://build.vsupalov.com/gunicorn-and-nginx/
