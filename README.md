@@ -15,6 +15,8 @@
 <br/>https://christophergs.com/tutorials/ultimate-fastapi-tutorial-pt-11-dependency-injection/
 <br/>https://christophergs.com/python/2021/06/16/python-flask-fastapi/
 <br/>https://ahmed-nafies.medium.com/fastapi-with-sqlalchemy-postgresql-and-alembic-and-of-course-docker-f2b7411ee396
+<br/>https://developer.redis.com/develop/python/fastapi/
+<br/>https://rednafi.github.io/digressions/python/database/2020/05/25/python-redis-cache.html
 <br/>https://www.youtube.com/watch?v=0sOvCWFmrtA
 
 4. Web servers:
