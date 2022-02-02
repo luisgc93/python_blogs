@@ -27,7 +27,8 @@
    
 5. Databases & ORMs:
 <br/>https://ysinjab.medium.com/activerecord-vs-datamapper-in-python-f7f13ffb6774
-<br/>https://dev.to/chidioguejiofor/eager-loading-vs-lazy-loading-in-sqlalchemy-5209
+<br/>https://dev.to/chidioguejiofor/eager-loading-vs-lazy-loading-in-sqlalchemy-
+<br/>https://luanjunyi.medium.com/system-design-paradigm-primary-replica-pattern-dc621bf195f1
 
 6. HTTP vs WebSockets:
 <br/>https://www.youtube.com/watch?v=8ARodQ4Wlf4
