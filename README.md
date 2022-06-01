@@ -24,7 +24,8 @@
 <br/>https://build.vsupalov.com/gunicorn-and-nginx/
 <br/>https://build.vsupalov.com/what-is-gunicorn/
 <br/>https://medium.com/@nachoad/que-es-wsgi-be7359c6e001 (in Spanish)
-   
+<br/>https://www.youtube.com/watch?v=YwWfKitB8aA
+
 5. Databases & ORMs:
 <br/>https://ysinjab.medium.com/activerecord-vs-datamapper-in-python-f7f13ffb6774
 <br/>https://dev.to/chidioguejiofor/eager-loading-vs-lazy-loading-in-sqlalchemy-
