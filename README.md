@@ -38,3 +38,6 @@
 7. Docker:
 <br/>https://pythonspeed.com/articles/base-image-python-docker-images/
 <br/>https://testdriven.io/blog/docker-best-practices/
+
+8. Concurrency:
+<br/>https://www.youtube.com/watch?v=MCs5OvhV9S4
