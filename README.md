@@ -1,10 +1,11 @@
 # python_resources 🐍
 
-1. Code conventions & architecture patterns:
+1. Code conventions & design patterns:
 <br/>https://www.b-list.org/weblog/2020/mar/16/no-service/
 <br/>https://instagram-engineering.com/types-for-python-http-apis-an-instagram-story-d3c3a207fdb7
 <br/>https://2013.es.pycon.org/media/solid-principles.pdf
 <br/>https://www.cosmicpython.com/book/preface.html
+<br/>https://www.toptal.com/python/python-design-patterns
    
 2. Django: 
 <br/>https://www.dabapps.com/blog/django-models-and-encapsulation
