@@ -42,3 +42,6 @@
 
 8. Concurrency:
 <br/>https://www.youtube.com/watch?v=MCs5OvhV9S4
+
+9. Computer Science for self-taught developers:
+<br/>https://teachyourselfcs.com/
