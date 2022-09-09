@@ -28,6 +28,7 @@
 <br/>https://www.youtube.com/watch?v=YwWfKitB8aA
 
 5. Databases & ORMs:
+<br/>https://benchling.engineering/move-fast-and-migrate-things-how-we-automated-migrations-in-postgres-d60aba0fc3d4
 <br/>https://ysinjab.medium.com/activerecord-vs-datamapper-in-python-f7f13ffb6774
 <br/>https://dev.to/chidioguejiofor/eager-loading-vs-lazy-loading-in-sqlalchemy-
 <br/>https://luanjunyi.medium.com/system-design-paradigm-primary-replica-pattern-dc621bf195f1
@@ -42,6 +43,7 @@
 
 8. Concurrency:
 <br/>https://www.youtube.com/watch?v=MCs5OvhV9S4
+<br/>https://www.infoworld.com/article/3632284/python-concurrency-and-parallelism-explained
 
 9. Computer Science for self-taught developers:
 <br/>https://teachyourselfcs.com/
