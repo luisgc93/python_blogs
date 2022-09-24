@@ -41,9 +41,10 @@
 <br/>https://pythonspeed.com/articles/base-image-python-docker-images/
 <br/>https://testdriven.io/blog/docker-best-practices/
 
-8. Concurrency:
+8. Concurrency & Parallelism:
 <br/>https://www.youtube.com/watch?v=MCs5OvhV9S4
 <br/>https://www.infoworld.com/article/3632284/python-concurrency-and-parallelism-explained
+<br/>https://towardsdatascience.com/multithreading-multiprocessing-python-180d0975ab29 (BEST)
 
 9. Computer Science for self-taught developers:
 <br/>https://teachyourselfcs.com/
