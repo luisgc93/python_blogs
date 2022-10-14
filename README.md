@@ -33,6 +33,7 @@
 <br/>https://dev.to/chidioguejiofor/eager-loading-vs-lazy-loading-in-sqlalchemy-
 <br/>https://luanjunyi.medium.com/system-design-paradigm-primary-replica-pattern-dc621bf195f1
 <br/>https://capnfabs.net/posts/sqlalchemy-connection-management/
+<br/>https://www.timescale.com/blog/identify-postgresql-performance-bottlenecks-with-pg_stat_statements/ (very useful re: PSQL)
 
 6. HTTP vs WebSockets:
 <br/>https://www.youtube.com/watch?v=8ARodQ4Wlf4
