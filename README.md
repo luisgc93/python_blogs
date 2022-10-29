@@ -1,6 +1,7 @@
 # python_resources 🐍
 
 1. Code conventions & design patterns:
+<br/>http://martyalchin.com/2007/nov/23/python-descriptors-part-1-of-2/
 <br/>https://www.b-list.org/weblog/2020/mar/16/no-service/
 <br/>https://instagram-engineering.com/types-for-python-http-apis-an-instagram-story-d3c3a207fdb7
 <br/>https://2013.es.pycon.org/media/solid-principles.pdf
