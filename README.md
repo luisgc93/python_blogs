@@ -28,6 +28,7 @@
 <br/>https://build.vsupalov.com/what-is-gunicorn/
 <br/>https://medium.com/@nachoad/que-es-wsgi-be7359c6e001 (in Spanish)
 <br/>https://www.youtube.com/watch?v=YwWfKitB8aA
+<br/>http://jasonwilder.com/blog/2014/03/25/automated-nginx-reverse-proxy-for-docker/
 
 5. Databases & ORMs:
 <br/>https://benchling.engineering/move-fast-and-migrate-things-how-we-automated-migrations-in-postgres-d60aba0fc3d4
