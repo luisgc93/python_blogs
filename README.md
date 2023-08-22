@@ -24,13 +24,14 @@
 <br/>https://www.youtube.com/watch?v=QSFIK2Ytbh4
 
 4. Web servers:
+<br/>https://ruslanspivak.com/lsbaws-part1/
 <br/>https://build.vsupalov.com/gunicorn-and-nginx/
 <br/>https://build.vsupalov.com/what-is-gunicorn/
 <br/>https://medium.com/@nachoad/que-es-wsgi-be7359c6e001 (in Spanish)
 <br/>https://www.youtube.com/watch?v=YwWfKitB8aA
 <br/>http://jasonwilder.com/blog/2014/03/25/automated-nginx-reverse-proxy-for-docker/
 
-5. Databases & ORMs:
+6. Databases & ORMs:
 <br/>https://benchling.engineering/move-fast-and-migrate-things-how-we-automated-migrations-in-postgres-d60aba0fc3d4
 <br/>https://ysinjab.medium.com/activerecord-vs-datamapper-in-python-f7f13ffb6774
 <br/>https://dev.to/chidioguejiofor/eager-loading-vs-lazy-loading-in-sqlalchemy-
@@ -38,17 +39,17 @@
 <br/>https://capnfabs.net/posts/sqlalchemy-connection-management/
 <br/>https://www.timescale.com/blog/identify-postgresql-performance-bottlenecks-with-pg_stat_statements/ (very useful re: PSQL)
 
-6. HTTP vs WebSockets:
+7. HTTP vs WebSockets:
 <br/>https://www.youtube.com/watch?v=8ARodQ4Wlf4
 
-7. Docker:
+8. Docker:
 <br/>https://pythonspeed.com/articles/base-image-python-docker-images/
 <br/>https://testdriven.io/blog/docker-best-practices/
 
-8. Concurrency & Parallelism:
+9. Concurrency & Parallelism:
 <br/>https://www.youtube.com/watch?v=MCs5OvhV9S4
 <br/>https://www.infoworld.com/article/3632284/python-concurrency-and-parallelism-explained
 <br/>https://towardsdatascience.com/multithreading-multiprocessing-python-180d0975ab29 (BEST)
 
-9. Computer Science for self-taught developers:
+10. Computer Science for self-taught developers:
 <br/>https://teachyourselfcs.com/
